@@ -23,7 +23,7 @@ export const projects: Project[] = [
       { value: "900 M", label: "From NH 48" },
       { value: "60 M", label: "Wide Shirsad Vajreshwari Highway" },
       { value: "12 KM", label: "Bullet Train Interchange" },
-      { value: "12 KM", label: "Mumbai–Baroda Expressway Interchange" },
+      { value: "1.5 KM", label: "Mumbai–Baroda Expressway Interchange" },
     ],
     locationPoints: [
       "900 m away from NH 48",
