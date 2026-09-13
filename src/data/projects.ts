@@ -30,7 +30,7 @@ export const projects: Project[] = [
       "60 m wide Shirsad Vajreshwari Highway frontage",
       "Easy access to Mumbai, Vasai, Virar and surrounding areas",
       "Bullet Train Interchange within 12 km",
-      "Mumbai–Baroda Expressway Interchange within 12 km",
+      "Mumbai–Baroda Expressway Interchange within 1.5 km",
       "Connectivity designed for business, logistics and customer reach",
     ],
     businessUses: [
