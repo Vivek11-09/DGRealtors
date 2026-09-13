@@ -1,0 +1,4 @@
+import Image from "next/image";
+import { brandValues } from "@/data/home";
+import { Container } from "@/components/ui/container";
+export function BrandStatement() { return <section className="relative isolate overflow-hidden border-y border-white/10 py-24 sm:py-32"><Image alt="Nikhil-Vir Business Park brand statement image" className="-z-20 object-cover" fill sizes="100vw" src="/gallery/A1.jpg.jpeg" /><div className="absolute inset-0 -z-10 bg-navy/85" /><Container><p className="max-w-4xl font-brand-display text-4xl leading-tight text-white sm:text-6xl">Real Estate is not just about Buildings, it&apos;s about People, Possibilities and Progress.</p><div className="mt-12 grid gap-px border border-white/15 bg-white/15 sm:grid-cols-2 lg:grid-cols-4">{brandValues.map((value) => <p className="bg-navy/85 px-5 py-6 text-sm font-bold uppercase tracking-[0.11em] text-gold-light" key={value}>{value}</p>)}</div></Container></section>; }
