@@ -101,7 +101,7 @@ export const projects: Project[] = [
       alt: "Nikhil-Vir Business Park location and connectivity plan",
     },
     locationMapEmbed:
-      '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4628.401268143963!2d72.90347317!3d19.47735549!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a7b5779e1e65%3A0x46883645d3331c5f!2sSimla%20Dairy%20Industries!5e1!3m2!1sen!2sin!4v1789282326148!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>',
+      '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4628.402943799803!2d72.90087991150382!3d19.47729683917461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7a7b0cbbf4ca5%3A0x9b0009babbb7db63!2sNikhil%20Vir%20Industry!5e1!3m2!1sen!2sin!4v1789884078565!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>',
     amenities: [
       "Industrial and commercial land use planning",
       "Business-friendly connectivity",
